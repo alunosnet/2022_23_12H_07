@@ -1,0 +1,35 @@
+Site com dois perfis (0-admin e 1-leitor)
+Admin 
+    -Utilizador
+    -Skin
+    -Compra
+    -Consultas
+
+Utilizador 
+    -Compra
+
+create table utilizador( 
+nutilizador int identity primary key,
+nome varchar(40) not null check (len(nome) >=3),
+nick varchar(50),
+password varchar(64) not null, 
+email varchar(100) not null unique check (email like '%@%.%'),
+perfil int not null check (perfil in('0','1'))
+)
+                    
+create table skin(
+nskin int identity primary key,
+nome varchar(100),
+ano int,
+data_aquisicao date,
+preco decimal(4, 2),
+capa varchar(300),
+quantidade int not null check (quantidade >= 0)
+)
+                    
+create table compra(
+ncompra int identity primary key,
+nskin int references skin(nskin),
+nutilizador int references utilizador(nutilizador),
+data_compra date,
+)
