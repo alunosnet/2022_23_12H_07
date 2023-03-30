@@ -1,0 +1,55 @@
+﻿@model IEnumerable<SkinsModulo17e.Models.utilizador>
+
+@{
+    ViewBag.Title = "Lista de Jogadores";
+}
+
+<h2>Lista de Jogadores</h2>
+
+<p>
+    @Html.ActionLink("Criar Novo Cliente ", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+        <th>
+            @Html.DisplayNameFor(model => model.nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nick)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @{
+                string nome = Server.MapPath("~/Public/" + item.utilizadorId + ".jpg");
+                if (System.IO.File.Exists(nome))
+                {
+                    <img src="@Url.Content(String.Format("~/Public/{0}.jpg",item.utilizadorId))" width="150" />
+                } 
+            }
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nick)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id = item.utilizadorId }) |
+            @Html.ActionLink("Detalhes", "Details", new { id = item.utilizadorId }) |
+            @Html.ActionLink("Apagar", "Delete", new { id = item.utilizadorId })
+        </td>
+    </tr>
+}
+
+</table>

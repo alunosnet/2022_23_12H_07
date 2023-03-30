@@ -1,0 +1,56 @@
+﻿@model SkinsModulo17e.Models.compra
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>compra</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.skin.id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.skin.id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.utilizador.nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.utilizador.nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.data_aquisicao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.data_aquisicao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.preco)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.preco)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

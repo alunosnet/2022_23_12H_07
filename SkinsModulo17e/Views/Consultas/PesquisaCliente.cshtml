@@ -1,0 +1,43 @@
+﻿@model IEnumerable<SkinsModulo17e.Models.utilizador>
+
+@{
+    ViewBag.Title = "PesquisaCliente";
+}
+
+<h2>PesquisaCliente</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Perfil)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.listaCompras)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <th>
+                @Html.DisplayNameFor(model => model.Perfil)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.listaCompras)
+            </th>
+        </tr>
+    }
+
+</table>

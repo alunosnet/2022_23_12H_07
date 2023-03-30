@@ -1,0 +1,51 @@
+﻿@model IEnumerable<SkinsModulo17e.Models.compra>
+
+@{
+    ViewBag.Title = "Comprar Skins ";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.skin.id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.utilizador.nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.data_aquisicao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.preco)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.skin.id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.utilizador.nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.data_aquisicao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.preco)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.compraId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.compraId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.compraId })
+        </td>
+    </tr>
+}
+
+</table>

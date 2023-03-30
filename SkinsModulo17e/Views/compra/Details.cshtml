@@ -1,0 +1,50 @@
+﻿@model SkinsModulo17e.Models.compra
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>compra</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.skin.id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.skin.id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.utilizador.nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.utilizador.nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.data_aquisicao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.data_aquisicao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.preco)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.preco)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.compraId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
