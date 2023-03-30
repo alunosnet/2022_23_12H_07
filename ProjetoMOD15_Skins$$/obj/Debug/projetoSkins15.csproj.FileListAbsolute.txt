@@ -1,0 +1,68 @@
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.csproj.AssemblyReference.cache
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.csproj.SuggestedBindingRedirects.cache
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.Form1.resources
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.f_skins.resources
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.csproj.GenerateResource.cache
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\ProjetoMOD15_Skins__.Properties.Resources.resources
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.csproj.CoreCompileInputs.cache
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\ProjetoMOD15_Skins$$.exe.config
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\ProjetoMOD15_Skins$$.exe
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\ProjetoMOD15_Skins$$.pdb
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.AccessControl.dll
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.Permissions.dll
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.AccessControl.xml
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.Permissions.xml
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.csproj.CopyComplete
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\ProjetoMOD15_Skins$$.exe
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\ProjetoMOD15_Skins$$.pdb
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.comprador.f_comprador.resources
+C:\Users\FilipeRodrigues\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.compra.f_compra.resources
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\ProjetoMOD15_Skins$$.exe.config
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\ProjetoMOD15_Skins$$.exe
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\ProjetoMOD15_Skins$$.pdb
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.Permissions.dll
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.Permissions.xml
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.comprador.f_comprador.resources
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.compra.f_compra.resources
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.Form1.resources
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\ProjetoMOD15_Skins__.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.f_skins.resources
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.csproj.CopyComplete
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\ProjetoMOD15_Skins$$.exe
+C:\Users\Utilizador\Desktop\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\ProjetoMOD15_Skins$$.pdb
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\ProjetoMOD15_Skins$$.exe.config
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\ProjetoMOD15_Skins$$.exe
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\ProjetoMOD15_Skins$$.pdb
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.AccessControl.dll
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.Permissions.dll
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.AccessControl.xml
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.Permissions.xml
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.csproj.AssemblyReference.cache
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.csproj.SuggestedBindingRedirects.cache
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.comprador.f_comprador.resources
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.compra.f_compra.resources
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.Form1.resources
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\ProjetoMOD15_Skins__.Properties.Resources.resources
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.f_skins.resources
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.csproj.GenerateResource.cache
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.csproj.CoreCompileInputs.cache
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\projetoSkins15.csproj.CopyComplete
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\ProjetoMOD15_Skins$$.exe
+C:\Users\pjcfe\OneDrive\Desktop\M15-Recuperação\ProjetoMOD15_Skins$$_Filipe\ProjetoMOD15_Skins$$\ProjetoMOD15_Skins$$\obj\Debug\ProjetoMOD15_Skins$$.pdb
